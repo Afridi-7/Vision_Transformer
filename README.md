@@ -55,12 +55,12 @@ Vision Transformers (ViT) apply the Transformer architecture (originally designe
 ---
 
 ### 📈 Training Curves
-![Training Curves](./vit_training_curves.png)
+![Training Curves](./images/vit_training_curves.png)
 
 ---
 
 ### 📊 Confusion Matrix
-![Confusion Matrix](./vit_confusion_matrix.png)
+![Confusion Matrix](./images/vit_confusion_matrix.png)
 
 ---
 
